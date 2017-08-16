@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqliteCURDEg</string>
+    <string name="enter_item">Enter item</string>
+    <string name="add">Add</string>
+    <string name="item_name_here">Item name here</string>
+    <string name="qty">Qty</string>
+</resources>
